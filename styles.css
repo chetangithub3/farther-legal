@@ -78,3 +78,39 @@ body {
 .section {
     margin-top: 40px;
 }
+.hero {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.app-icon {
+    width: auto;
+    height: auto;
+
+    margin: 0 auto 0 auto;
+
+    background: white;
+
+    border-radius: 44px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app-icon img {
+    width: auto;
+    height: auto;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 8px;
+}
+.app-icon {
+    background: linear-gradient(
+        180deg,
+        #ffffff,
+        #f8f8f8
+    );
+}
